@@ -5,3 +5,4 @@ My first repository
 - feature-A
 
 # 合并分支
+- feature-A to main
