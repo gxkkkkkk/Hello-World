@@ -10,4 +10,4 @@ My first repository
 fix-B
 
 # 第三个分支
-faeture-C
+feature-C1
