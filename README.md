@@ -12,3 +12,6 @@ fix-B
 
 # 第三个分支
 feature-C1
+
+# 结束
+ended
